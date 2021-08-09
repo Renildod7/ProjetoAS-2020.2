@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/UfcgBrasao.jpg/1200px-UfcgBrasao.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/UfcgBrasao.jpg/1200px-UfcgBrasao.jpg =100x20)
 
 
 # Universidade Federal de Campina Grande
