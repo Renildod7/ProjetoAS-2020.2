@@ -11,6 +11,4 @@
 
 #### O Wikarticle é uma rede social educacional, em que várias pessoas podem compartilhar artigos sobre diversos temas. Os usuários são divididos em três classes, administrador, professor, estudante e convidado. Sendo assim, algumas delas possuem restrições. Além disso, o usuário tem a possibilidade de contribuir para aumentar o grau de informação do artigo. Cada artigo possui uma avaliação, a qual é dada pelos leitores. 
 
-.markdown-preview {
-  p { font-size: 24px; }
-}
+.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
