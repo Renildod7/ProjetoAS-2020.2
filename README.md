@@ -1,4 +1,4 @@
 # Universidade Federal de Campina Grande
 # Disciplina: Análise de Sistemas
 # Professora: Eliane Araújo
-<p align="center", style="font-size : 30px"> WIKARTICLE </p>
+<p align="center" style="font-family: times, serif; font-size:11pt; font-style:italic"> WIKARTICLE </p>
