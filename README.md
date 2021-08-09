@@ -7,6 +7,6 @@
 ## Professora: Eliane Araújo
 ## Alunos: Augusto Santos(118210253), Gabriel Paiva Medeiros(118210822), Renildo Dantas Melo(118210324), Wander Júnior (118210940) 
 
-<h1 align="center" style="font-size:100vw" >WIKARTICLE</h1>
+<h1 align="center" >WIKARTICLE</h1>
 
 #### O Wikarticle é uma rede social educacional, em que várias pessoas podem compartilhar artigos sobre diversos temas. Os usuários são divididos em três classes, administrador, professor, estudante e convidado. Sendo assim, algumas delas possuem restrições. Além disso, o usuário tem a possibilidade de contribuir para aumentar o grau de informação do artigo. Cada artigo possui uma avaliação, a qual é dada pelos leitores.
