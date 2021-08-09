@@ -5,6 +5,7 @@
 # Universidade Federal de Campina Grande
 # Disciplina: Análise de Sistemas
 # Professora: Eliane Araújo
+# Alunos: Augusto Santos(118210253), Gabriel Paiva Medeiros(118210822), Renildo Dantas Melo(118210324), Wander Júnior (118210940) 
 
 <p align="center"> WIKARTICLE </p>
 
