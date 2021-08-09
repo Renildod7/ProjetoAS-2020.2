@@ -1,5 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/UfcgBrasao.jpg/1200px-UfcgBrasao.jpg=100x20)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/UfcgBrasao.jpg/1200px-UfcgBrasao.jpg" alt="drawing" width="200"/>
 
 # Universidade Federal de Campina Grande
 # Disciplina: Análise de Sistemas
