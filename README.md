@@ -1,13 +1,3 @@
----
-title: "Title"
-author: "Author"
-date: "DATE"
-output: 
-  html_document:
-     css: font-awesome-4.4.0/css/font-awesome.css
-     self_contained: no
----
-
 <p align="center">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/UfcgBrasao.jpg/1200px-UfcgBrasao.jpg" alt="drawing" height=400 width="400"/>
 </p>
