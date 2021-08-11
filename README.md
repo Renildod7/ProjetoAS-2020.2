@@ -9,4 +9,4 @@
 
 <h1 align="center" >WIKInformation</h1>
 
-#### O WIKInformation é uma rede social educacional, em que várias pessoas podem compartilhar informações sobre diversos temas. Os usuários são divididos em três classes, administrador, pesquisador e usuário padrão. Sendo assim, algumas delas possuem restrições. Além disso, o usuário tem a possibilidade de contribuir para aumentar o grau de informação das postagens feitas pelos usuários. Cada postagem possui uma avaliação, a qual é dada pelos leitores.
+#### O WIKInformation é uma rede social educacional, em que várias pessoas podem compartilhar informações sobre diversos temas. Os usuários são divididos em três classes, administrador, pesquisador, usuário padrão. Sendo assim, alguns deles possuem restrições e vários usuários podem formar um grupo de pesquisa, o qual pode trocar informações com outros grupos. Além disso, o usuário tem a possibilidade de contribuir para aumentar o grau de informação das postagens feitas pelos usuários. Cada postagem possui uma avaliação, a qual é dada pelos leitores.
