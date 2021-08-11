@@ -6,7 +6,7 @@
 ## Disciplina: Análise de Sistemas
 ## Professora: Eliane Araújo
 ## Alunos: Augusto Santos (118210253), Gabriel Paiva Medeiros (118210822), Renildo Dantas Melo (118210324), Wander Júnior (118210940)
-## Área: Educação de Qualidade
+## Área 4: Educação de Qualidade
 
 <h1 align="center" >WIKInformation</h1>
 
