@@ -21,3 +21,4 @@
 
 
 <h3>Documentação 2</h3>
+<a href="https://renildod7.github.io/ProjetoAS-2020.2/Diagrama%20de%20Sequencia.pdf">Diagrama de Sequecia</a><br>
