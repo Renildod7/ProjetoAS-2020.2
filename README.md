@@ -19,5 +19,5 @@
 <a href="https://renildod7.github.io/ProjetoAS-2020.2/Diagrama%20de%20Casos%20de%20Uso.pdf">Diagrama de Casos de Uso</a><br>
 <a href="https://renildod7.github.io/ProjetoAS-2020.2/Diagrama%20de%20Atividades.pdf">Diagrama de Atividades</a><br>
 
-<br>
+
 <h3>Documentação 2</h3>
